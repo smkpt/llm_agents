@@ -1,0 +1,7 @@
+# Enterprise AI Platform: Core Dependencies
+# Phase 1: Multi-Model Gateway & Abstraction Layer
+
+openai>=1.40.0
+pydantic>=2.10.0
+python-dotenv>=1.0.1
+httpx>=0.27.0
